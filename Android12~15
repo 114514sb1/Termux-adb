@@ -1,0 +1,4 @@
+pkg install android-tools
+adb pair **.**.**.**:*****
+*****
+adb connect **.**.**.**:*****
